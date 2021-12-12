@@ -1,7 +1,4 @@
-# robofriends
-Tutorial for React
-To run the project:
+# robo-friends
+Basic React App with Search Functionality.
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Start typing to see the robots get selected instantly.
